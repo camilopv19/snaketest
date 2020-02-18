@@ -1,0 +1,26 @@
+.canvas {
+  background-color: black;
+  border: blue;
+  border-style: solid;
+}
+
+.btn {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  display: inline-block;
+  font-weight: 800;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: 0.875rem 1.75rem;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+}
+
+#counter {
+    display: inline-block;
+    padding: 0.875rem 1.75rem;
+  font-family: "Changa one";
+}
